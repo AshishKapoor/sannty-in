@@ -5,6 +5,18 @@ const projectsData = [
     imgSrc: '/static/images/kerb-logo.webp',
     href: 'https://kerb.works',
   },
+  {
+    title: 'Quid Inc.',
+    description: `The First and Only Contextual AI Platform.`,
+    imgSrc: '/static/images/quid-logo.png',
+    href: 'https://netbasequid.com/applications/quid-pro/',
+  },
+  {
+    title: 'Rill Data',
+    description: `Radically simple metrics dashboards.`,
+    imgSrc: '/static/images/rill-logo.png',
+    href: 'https://rilldata.com',
+  },
 ]
 
 export default projectsData
