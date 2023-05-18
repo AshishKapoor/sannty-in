@@ -28,7 +28,7 @@ program
   .option(
     '-e, --event [name]',
     `name of event to watch, defaults to ${defaultWatchEvent}`,
-    defaultWatchEvent
+    defaultWatchEvent,
   )
   .option('-p, --polling [name]', `use polling for the watcher, defaults to false`, false)
   .parse(process.argv)
@@ -60,7 +60,7 @@ app.prepare().then(() => {
             ],
             {
               stdio: 'inherit',
-            }
+            },
           )
         }
 
