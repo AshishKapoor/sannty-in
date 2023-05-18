@@ -36,12 +36,12 @@ My brother [Nitin](https://twitter.com/IcarusBlade) stepped in. He heard what I 
 
 “Use your spare machine over [OpenSSH](https://www.openssh.com/) and let it do the **heavy** stuff.” – [Nitin](https://twitter.com/IcarusBlade)
 
-I was quickly able to connect the dots. Then I moved back on my MacBook Pro and got all my repositories on my machine “[**Anton**](http://192.168.31.172)”. Made it run all my docker containers, Apache software tools, and the backend API my front end was consuming data from. Soon, after my brother introduced me to [SSH extension](https://code.visualstudio.com/blogs/2019/07/25/remote-ssh) on VSCode by Microsoft and that’s when I delegated all the **heavy** tasks on my Anton.
+I was quickly able to connect the dots. Then I moved back on my MacBook Pro and got all my repositories on my machine “[**Anton**](localhost)”. Made it run all my docker containers, Apache software tools, and the backend API my front end was consuming data from. Soon, after my brother introduced me to [SSH extension](https://code.visualstudio.com/blogs/2019/07/25/remote-ssh) on VSCode by Microsoft and that’s when I delegated all the **heavy** tasks on my Anton.
 
 Guess what? My MacBook's fan's speed is low and back to normal. Now, macOS is my interface and the fedora OS server is my dev server doing all the **heavy** lifting.
 
 Coming back to my other initial issue with mosquitoes. Now I get a much better battery life on my MacBook pro so I finally got my “portability” feature back and I can spray the mosquitoes repellent in only my room and when the deadlines get close can work from there too.
 
-**{ Mosquitoes: 0,** [**Anton**](http://192.168.31.172)**: 1 }**
+**Mosquitoes: 0,** [**Anton**](localhost)**: 1 **
 
 ![](https://cdn-images-1.medium.com/max/800/0*nUz46zgutUnFy5mY)
