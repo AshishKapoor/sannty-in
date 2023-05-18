@@ -3,7 +3,7 @@ title: Small city experience
 summary: I grew up in New Delhi, India where I spent 25 years. I’ll be honest, I miss
   my city a lot. However, due to many reasons, I left my…
 date: '2019-01-31'
-tags: []
+tags: ['life lessons']
 authors: ['default']
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: Lessons learned from a year working as a Remote worker
 summary: Over-communicate and take your time before replying
 date: '2018-10-09'
-tags: []
+tags: ['remote work']
 authors: ['default']
 draft: false
 ---

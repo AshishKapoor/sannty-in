@@ -3,7 +3,7 @@ title: 'Remote work: A sweet spot between working for a company and for self'
 summary: I have been working professionally on and off between corporate and start-ups.
   Then I got an opportunity to work remotely for 2 years. In…
 date: '2019-08-24'
-tags: []
+tags: ['remote work']
 authors: ['default']
 draft: false
 ---

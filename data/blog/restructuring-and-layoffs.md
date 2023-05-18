@@ -3,7 +3,7 @@ title: Restructuring and Layoffs (Adversity is the way!)
 summary: I’m not an expert. However, I’ve revived through this cycle once.
   Maybe you should open up and talk about it with your close…
 date: '2020-05-07'
-tags: []
+tags: ['layoffs', 'work']
 authors: ['default']
 draft: false
 ---

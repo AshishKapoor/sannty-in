@@ -2,7 +2,7 @@
 title: Explain financial freedom like I’m five.
 summary: 'In this post, I’m going to jot down a few facts about “financial freedom”.'
 date: '2019-08-25'
-tags: []
+tags: ['personal finance']
 authors: ['default']
 draft: false
 ---

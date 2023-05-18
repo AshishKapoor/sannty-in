@@ -2,7 +2,7 @@
 title: 'Quick Read: Passive income ideas'
 summary: Broke? (Basics)
 date: '2019-08-31'
-tags: []
+tags: ['personal finance']
 authors: ['default']
 draft: false
 ---

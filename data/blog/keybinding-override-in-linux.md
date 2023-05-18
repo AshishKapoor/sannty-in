@@ -3,7 +3,7 @@ title: CTRL + SHIFT+ E and U keybinding override in Linux
 summary: When I try to switch between File Explore, Search etc tabs in my VSCode
   keybindings using ctrl-shift-e. It fails to work.
 date: '2021-09-27'
-tags: []
+tags: ['linux']
 authors: ['default']
 draft: false
 ---

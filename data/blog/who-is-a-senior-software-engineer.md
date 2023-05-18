@@ -3,7 +3,7 @@ title: Who is a senior software engineer?
 summary: It all began with my following dev.to post dated September 16, 2017. It’s when
   I became curious around this question to get an…
 date: '2020-04-15'
-tags: []
+tags: ['work', 'leadership']
 authors: ['default']
 draft: false
 ---

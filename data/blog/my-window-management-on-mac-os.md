@@ -3,7 +3,7 @@ title: My window management on Mac OS
 summary: So, I have been playing Fortnite a lot with my friends from time to time. One
   great thing I noticed in the game was the ability to switch
 date: '2023-05-16'
-tags: []
+tags: ['mac os', 'tools']
 authors: ['default']
 draft: false
 ---

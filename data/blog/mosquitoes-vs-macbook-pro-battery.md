@@ -2,7 +2,7 @@
 title: "Mosquitoes vs. MacBook Pro’s \U0001F50B"
 summary: It’s a story about how I practically understood computer networks and put it for use to scratch my own itch.
 date: '2020-05-29'
-tags: []
+tags: ['computer networks']
 draft: false
 authors: ['default']
 ---

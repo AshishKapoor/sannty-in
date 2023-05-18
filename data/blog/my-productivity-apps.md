@@ -2,7 +2,7 @@
 title: My Productivity Apps
 summary: General Mode & Developer Mode
 date: '2022-10-17'
-tags: []
+tags: ['mac os', 'tools']
 authors: ['default']
 draft: false
 ---

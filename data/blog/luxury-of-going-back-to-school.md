@@ -3,7 +3,7 @@ title: Luxury of going back to school
 summary: In this post I will be talking about my experience of stepping down a step on
   the career ladder to be able to re-live the fun (Problem…
 date: '2019-09-13'
-tags: []
+tags: ['leadership']
 authors: ['default']
 draft: false
 ---

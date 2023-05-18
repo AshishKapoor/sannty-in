@@ -5,7 +5,7 @@ summary: A below average student till class 10th, I was more of a vocalist than
 date: '2017-11-06'
 lastmod: '2017-11-06'
 draft: false
-tags: []
+tags: ['life lessons']
 authors: ['default']
 ---
 

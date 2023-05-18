@@ -3,7 +3,7 @@ title: Use the filter method for letter wise search
 summary: The filter() method creates a new array with all elements that pass the test
   implemented by the provided function.  — Source
 date: '2019-08-10'
-tags: []
+tags: ['programming']
 authors: ['default']
 draft: false
 ---

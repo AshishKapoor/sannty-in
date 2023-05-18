@@ -2,7 +2,7 @@
 title: I used Zed Code Editor at work today
 summary: 'Here are my initial thoughts.'
 date: '2023-03-17'
-tags: []
+tags: ['tools']
 authors: ['default']
 draft: false
 ---

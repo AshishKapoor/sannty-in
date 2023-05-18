@@ -2,7 +2,7 @@
 title: Migration lessons from corporate to start-up
 summary: My lessons from working with some great leaders
 date: '2020-10-19'
-tags: []
+tags: ['start up']
 authors: ['default']
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: My experience working for a company in the Silicon valley as SSE.
 summary: 'You’ll get to network with intelligent people,'
 date: '2020-02-23'
-tags: []
+tags: ['work']
 authors: ['default']
 draft: false
 ---

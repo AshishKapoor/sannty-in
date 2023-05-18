@@ -2,7 +2,7 @@
 title: Programming is a skill
 summary: It is a slow process.
 date: '2020-05-15'
-tags: []
+tags: ['programming']
 authors: ['default']
 draft: false
 ---

@@ -3,7 +3,7 @@ title: How redux connect works?
 summary: Just recently I wrote this to understand recursive functions and multi
   parentheses after a function call.
 date: '2019-08-16'
-tags: []
+tags: ['programming']
 authors: ['default']
 draft: false
 ---

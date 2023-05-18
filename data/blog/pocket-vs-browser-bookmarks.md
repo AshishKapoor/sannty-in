@@ -2,7 +2,7 @@
 title: 'Pocket vs Browser Bookmarks?'
 date: '2017-11-04'
 lastmod: '2017-11-04'
-tags: ['reading']
+tags: ['random']
 draft: false
 summary: 'I am playing with tailwind and nextjs. I will be migrating my content here soon.'
 images:
