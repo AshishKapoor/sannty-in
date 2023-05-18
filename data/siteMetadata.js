@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Sannty',
   author: 'Ashish Kapoor',
   headerTitle: 'Ashish Kapoor',
-  description: 'A blog by Ashish Kapoor',
+  description: 'by Ashish Kapoor',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://sannty.in',
