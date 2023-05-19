@@ -7,7 +7,7 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://sannty.in',
   siteRepo: 'https://github.com/ashishkapoor/sannty-in',
-  siteLogo: '/static/images/logo.jpg',
+  siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.jpg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'ashish@sannty.in',
