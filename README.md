@@ -91,8 +91,7 @@ I wanted it to be nearly as feature-rich as popular blogging templates like [bea
 - Blog templates
 - TOC component
 - Support for nested routing of blog posts
-- Newsletter component with support for mailchimp, buttondown, convertkit, klaviyo, revue, and emailoctopus
-- Supports [giscus](https://github.com/laymonage/giscus), [utterances](https://github.com/utterance/utterances) or disqus
+- Newsletter component with support for buttondown
 - Projects page
 - Preconfigured security headers
 - SEO friendly with RSS feed, sitemaps and more!
@@ -131,7 +130,6 @@ npx degit https://github.com/timlrx/tailwind-nextjs-starter-blog.git
 
 2. Personalize `siteMetadata.js` (site related information)
 3. Modify the content security policy in `next.config.js` if you want to use
-   any analytics provider or a commenting solution other than giscus.
 4. Personalize `authors/default.md` (main author)
 5. Modify `projectsData.js`
 6. Modify `headerNavLinks.js` to customize navigation links

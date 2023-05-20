@@ -36,7 +36,7 @@
 }
 
 .line-number::before {
-  @apply mr-4 -ml-2 inline-block w-4 text-right text-gray-400;
+  @apply -ml-2 mr-4 inline-block w-4 text-right text-gray-400;
   content: attr(line);
 }
 
@@ -48,7 +48,6 @@
  * Ported by Sara vieria [@SaraVieira]
  * Added by Souvik Mandal [@SimpleIndian]
  */
-.token.comment,
 .token.prolog,
 .token.cdata {
   color: rgb(99, 119, 119);
