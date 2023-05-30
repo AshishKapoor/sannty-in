@@ -5,7 +5,6 @@ import SectionContainer from './SectionContainer'
 import Footer from './Footer'
 import MobileNav from './MobileNav'
 import ThemeSwitch from './ThemeSwitch'
-import Image from 'next/image'
 
 const LayoutWrapper = ({ children }) => {
   return (
@@ -16,7 +15,16 @@ const LayoutWrapper = ({ children }) => {
             <Link href="/" aria-label={siteMetadata.headerTitle}>
               <div className="flex items-center justify-between">
                 <div className="mr-3">
-                  <Image width={80} height={80} src="/static/images/logo.png" alt="site logo" />
+                  <pre>
+                    {JSON.stringify(
+                      {
+                        website: 'sannty.in',
+                        author: 'Ashish Kapoor',
+                      },
+                      null,
+                      2,
+                    )}
+                  </pre>
                 </div>
               </div>
             </Link>
