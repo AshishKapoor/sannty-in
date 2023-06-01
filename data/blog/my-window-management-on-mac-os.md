@@ -36,4 +36,16 @@ I press ctrl + 3, it always gives me the browser of my choice.
 
 So on and so forth, I hope you get the point.
 
+**Full disclosure** here are my current Desktops
+
+1. Code Editors
+2. Terminals
+3. Browsers
+4. Communication Apps
+5. Music streaming services
+6. Settings, Configs
+7. Books, Notes
+8. Discord
+9. Movies, Media
+
 Thanks for reading, cheers!
