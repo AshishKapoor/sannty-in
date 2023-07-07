@@ -1,9 +1,10 @@
-import siteMetadata from '@/data/siteMetadata'
 import headerNavLinks from '@/data/headerNavLinks'
-import Link from './Link'
-import SectionContainer from './SectionContainer'
+import siteMetadata from '@/data/siteMetadata'
+import Image from 'next/image'
 import Footer from './Footer'
+import Link from './Link'
 import MobileNav from './MobileNav'
+import SectionContainer from './SectionContainer'
 import ThemeSwitch from './ThemeSwitch'
 
 const LayoutWrapper = ({ children }) => {
@@ -15,16 +16,9 @@ const LayoutWrapper = ({ children }) => {
             <Link href="/" aria-label={siteMetadata.headerTitle}>
               <div className="flex items-center justify-between">
                 <div className="mr-3">
-                  <pre>
-                    {JSON.stringify(
-                      {
-                        website: 'sannty.in',
-                        author: 'Ashish Kapoor',
-                      },
-                      null,
-                      2,
-                    )}
-                  </pre>
+                  <div className="mr-3">
+                    <Image width={80} height={80} src="/static/images/logo.png" alt="site logo" />
+                  </div>
                 </div>
               </div>
             </Link>
