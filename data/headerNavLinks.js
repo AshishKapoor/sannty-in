@@ -1,11 +1,12 @@
 const headerNavLinks = [
-  { href: '/blog', title: 'all posts' },
-  { href: '/tags', title: 'tags' },
-  { href: '/projects', title: 'projects' },
-  { href: '/about', title: 'about' },
-  { href: 'https://www.youtube.com/@ashshkapoor', title: 'youtube' },
-  { href: 'https://code.sannty.in', title: 'code' },
-  { href: 'https://dash.sannty.in', title: 'dashboard' },
+  { href: '/blog', title: 'All posts' },
+  { href: '/tags', title: 'Tags' },
+  { href: '/projects', title: 'Projects' },
+  { href: '/about', title: 'About' },
+  { href: 'https://code.sannty.in', title: 'Code' },
+  { href: 'https://dash.sannty.in', title: 'Dash' },
+  { href: 'https://www.youtube.com/@ashshkapoor', title: 'Youtube' },
+  { href: 'https://status.sannty.in/status/health', title: 'Status' },
 ]
 
 export default headerNavLinks
