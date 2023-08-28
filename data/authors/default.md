@@ -7,6 +7,7 @@ email: ashish.kapoor@outlook.in
 twitter: https://twitter.com/ashshkapoor
 linkedin: https://www.linkedin.com/in/ashshkapoor/
 github: https://github.com/ashishkapoor/
+youtube: https://www.youtube.com/@ashshkapoor/
 ---
 
 I am a tech enthusiast with a focus on developing and maintaining software. I am committed to delivering reliable solutions with a customer-first approach. In my free time, I am an open-source contributor and a YouTuber, where I share my knowledge and passion for technology.
