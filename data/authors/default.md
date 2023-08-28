@@ -3,7 +3,6 @@ name: Ashish Kapoor
 avatar: /static/images/avatar.jpg
 occupation: Software Consultant
 company: Netix.AI
-email: ashish.kapoor@outlook.in
 twitter: https://twitter.com/ashshkapoor
 linkedin: https://www.linkedin.com/in/ashshkapoor/
 github: https://github.com/ashishkapoor/
