@@ -4,8 +4,7 @@ const headerNavLinks = [
   { href: '/projects', title: 'Projects' },
   { href: '/about', title: 'About' },
   { href: 'https://pmx.sannty.in', title: 'Proxmox' },
-  { href: 'https://code.sannty.in', title: 'Code' },
-  { href: 'https://dash.sannty.in', title: 'Dash' },
+  { href: 'https://dash.sannty.in', title: 'Grafana' },
   { href: 'https://uptime.sannty.in/status/health', title: 'Status' },
 ]
 
