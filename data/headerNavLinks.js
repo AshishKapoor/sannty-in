@@ -3,9 +3,8 @@ const headerNavLinks = [
   { href: '/tags', title: 'Tags' },
   { href: '/projects', title: 'Projects' },
   { href: '/about', title: 'About' },
-  { href: 'https://pmx.sannty.in', title: 'Proxmox' },
   { href: 'https://dash.sannty.in', title: 'Grafana' },
-  { href: 'https://uptime.sannty.in/status/health', title: 'Status' },
+  { href: 'https://code.sannty.in', title: 'Code Server' },
 ]
 
 export default headerNavLinks
