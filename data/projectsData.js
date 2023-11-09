@@ -9,7 +9,7 @@ const projectsData = [
     title: 'Quid Inc.',
     description: `The First and Only Contextual AI Platform.`,
     imgSrc: '/static/images/quid-logo.png',
-    href: 'https://netbasequid.com/applications/quid-pro/',
+    href: 'https://www.quid.com/products/quid-discover',
   },
   {
     title: 'Kerb.Works',
