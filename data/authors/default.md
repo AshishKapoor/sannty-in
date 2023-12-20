@@ -2,7 +2,7 @@
 name: Ashish Kapoor
 avatar: /static/images/avatar.jpg
 occupation: Software Consultant
-company: Netix.AI
+company: Ex. Rill Data, Quid Inc
 email: ashish.kapoor@outlook.in
 twitter: https://twitter.com/ashshkapoor
 linkedin: https://www.linkedin.com/in/ashshkapoor/
