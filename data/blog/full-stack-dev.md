@@ -33,13 +33,15 @@ I noticed unlike in the front end at least in the backend things were mostly the
 Then with a simple introduction to [Django Rest Framework](https://github.com/AshishKapoor/django-rest-framework) the promise of DX helped me double down on giving my all free time to devote to Python & SQL > Django > DRF.
 The major benefits of not having to worry about pointers and references in python were just a no-brainer. Special mention of the pythonic way of doing things.
 
-```
+
 Note:
-Having basic clarity of things like HTTP, IP, model-based ORMs, Virtualisation, Docker, and K8s. Then clarity through Budibase and Supabase with some technicalities of tables and relationships. I am super confident I wish to invest my free time into Python land. Plus after witnessing you fine-tuning and caching It just makes sense this is the best way forward.
+Having basic clarity of things like HTTP, IP, model-based ORMs, Virtualisation, Docker, and K8s.
+Then clarity through Budibase and Supabase with some technicalities of tables and relationships.
+I am super confident I wish to invest my free time into Python land.
+Plus after witnessing you fine-tuning and caching It just makes sense this is the best way forward.
 
 It makes sense statistically as well since JS/Python communities are top communities.
 
 The pros of going through this process that I can see are
 - I might be able to write services on the web.
 - I might be able to fiddle with 3rd party [Python AI/ML libraries](https://github.com/ageitgey/face_recognition) which will make ML highly accessible to me.
-```
