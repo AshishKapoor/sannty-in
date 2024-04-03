@@ -1,6 +1,6 @@
 ---
 title: Full Stack Development (Bonus AI/ML)
-summary: I have been a frontend dev in Mobile and Web. Craving to get the taste of backend. 
+summary: I have been a frontend dev in Mobile and Web. Craving to get the taste of backend.
 date: '2024-04-03'
 tags: ['full stack', 'web development', 'machine learning', 'artificial intelligence']
 authors: ['default']
@@ -14,7 +14,7 @@ I crave to get the taste of the backend from the past 3 years over holidays and 
 
 Being in the front end I was always inclined towards javascript/typescript in the backend.
 I went from NodeJS to ExpressJS to Koa where I realised the developer experience(DX) was a lot
-demanding and did not appear like a weekend affair. 
+demanding and did not appear like a weekend affair.
 
 While recently working alongside a long-time friend. I noticed him advocating for Django (Python-based framework) a lot.
 Where I noticed he was able to manage a team of 2 and lead multiple products swiftly with a happy face most of the time.
