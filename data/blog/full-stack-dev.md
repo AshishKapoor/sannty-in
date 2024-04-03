@@ -25,9 +25,11 @@ Where I noticed he was able to manage a team of 2 and lead multiple products swi
 - [x] React
 - [x] Nginx
 
-All self-hosted. Oh yeah, I spent years in Computer Networks to accumulate practical knowledge
-from DNS, TCP/IP, cloudflare, Nginx Proxy Manager, wireguard, docker, docker-compose, grafana, and to ubuntu server, cockpit and proxmox.
-I ended up eventually streaming videos on demand from anywhere across the globe for myself using Oracle Cloud (Because JioCinema was a horrible OTT service back then).
+All self-hosted! _Oh yeah, I spent last two years in Computer Networks to accumulate practical knowledge
+from DNS, TCP/IP, cloudflare, Nginx Proxy Manager, wireguard, docker, docker-compose, grafana, and to ubuntu server, cockpit and proxmox._
+
+**Why?**
+_I ended up eventually streaming legally acquired videos on demand from anywhere across the globe for myself and friends using Oracle Cloud because JioCinema was a horrible OTT service back then._
 
 Coming back on the search for a web backend framework which plays nice with a weekend’s worth of time.
 Since a lot of my time investment went into the node, express, koa, system design, and backend systems.
