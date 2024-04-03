@@ -36,9 +36,9 @@ Then with a simple introduction to [Django Rest Framework](https://github.com/As
 The major benefits of not having to worry about pointers and references in python were just a no-brainer. Special mention of the pythonic way of doing things.
 
 **Note:**
-Having basic clarity of things like HTTP, IP, model-based ORMs, Virtualisation, Docker, and K8s. Then clarity through [Budibase](https://budibase.com/) and [Supabase](https://supabase.com/) with some technicalities of tables and relationships. I am super confident to invest my free time into Python land. Plus after witnessing my colleague fine-tuning and caching. It just makes sense this is the best way forward for me!
+Having basic clarity of things like HTTP, IP, model-based ORMs, Virtualisation, Docker, and K8s. Then clarity through [Budibase](https://budibase.com/) and [Supabase](https://supabase.com/) with some technicalities of tables and relationships. I am super confident to invest my free time into Python land. Plus after witnessing my colleague fine-tuning and caching while we were scaling up our systems. It just makes sense that Django framework is the best way forward for me over weekends!
 
-It makes sense statistically as well. Since JS/Python communities are top communities to learn and grow.
+Also, statistically speaking JS/Python communities are top communities to learn and grow.
 
 The pros of going through this process?
 
