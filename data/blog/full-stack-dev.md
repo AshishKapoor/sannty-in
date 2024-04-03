@@ -35,9 +35,9 @@ The major benefits of not having to worry about pointers and references in pytho
 
 ```
 Note:
-Having basic clarity of things like HTTP, IP, model-based ORMs, Virtualisation, Docker, and K8s. Then clarity through Budibase and Supabase with some technicalities of tables and relationships. I am super confident I wish to invest my free time into Python land. Plus after witnessing you fine-tuning and caching It just makes sense this is the best way forward.
+Having basic clarity of things like HTTP, IP, model-based ORMs, Virtualisation, Docker, and K8s. Then clarity through [Budibase](https://budibase.com/) and [Supabase](https://supabase.com/) with some technicalities of tables and relationships. I am super confident to invest my free time into Python land. Plus after witnessing my colleague fine-tuning and caching. It just makes sense this is the best way forward for me!
 
-It makes sense statistically as well since JS/Python communities are top communities.
+It makes sense statistically as well. Since JS/Python communities are top communities to learn and grow.
 
 The pros of going through this process that I can see are
 - I might be able to write services on the web.
