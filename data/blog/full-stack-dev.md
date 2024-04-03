@@ -16,7 +16,7 @@ Being in the front end I was always inclined towards javascript/typescript in th
 I went from NodeJS to ExpressJS to Koa where I realised the developer experience(DX) was a lot
 demanding and did not appear like a weekend affair.
 
-While recently working alongside a long-time friend. I noticed him advocating for Django (Python-based framework) a lot.
+While recently working alongside a long-time friend [Prakhar Shukla](https://prafiles.in/). I noticed him advocating for Django (Python-based framework) a lot.
 Where I noticed he was able to manage a team of 2 and lead multiple products swiftly with a happy face most of the time.
 
 **I started questioning my tech stack of _Node/Express_, Postgres, React, and Nginx.**
