@@ -1,5 +1,5 @@
 ---
-title: Full Stack Development (Bonus AI/ML)
+title: Full Stack Development (Weekend Edition)
 summary: I have been a frontend dev in Mobile and Web. Craving to get the taste of backend.
 date: '2024-04-03'
 tags: ['full stack', 'web development', 'machine learning', 'artificial intelligence']
