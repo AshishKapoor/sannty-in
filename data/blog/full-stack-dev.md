@@ -38,7 +38,12 @@ Having basic clarity of things like HTTP, IP, model-based ORMs, Virtualisation, 
 
 It makes sense statistically as well. Since JS/Python communities are top communities to learn and grow.
 
-The pros of going through this process that I can see are
+The pros of going through this process?
 
 - I might be able to write services on the web.
 - I might be able to fiddle with 3rd party [Python AI/ML libraries](https://github.com/ageitgey/face_recognition) which will make ML highly accessible to me.
+
+**On the similar lines (Weekend Edition), What about the state of front end?**
+- I am still trying to figure out an easy way to solve the frontend overload in the world of NextJS, Svelte, VueJS, and SolidJS.
+- The idea of not being bothered about the performance too much rather delivering frontend quick is possibily the key.
+- I think since Vercel currently holds on to the top talents in the domain. They should be the ones solving this problem in the OSS way.
