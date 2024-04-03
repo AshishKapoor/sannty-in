@@ -19,11 +19,7 @@ demanding and did not appear like a weekend affair.
 While recently working alongside a long-time friend [Prakhar Shukla](https://prafiles.in/). I noticed him advocating for Django (Python-based framework) a lot.
 Where I noticed he was able to manage a team of 2 and lead multiple products swiftly with a happy face most of the time.
 
-**I started questioning my tech stack**
-- [ ] ~~Node/Express~~<sup>Django?</sup>
-- [x] Postgres
-- [x] React
-- [x] Nginx
+I started questioning my **"tech-stack"** ReactJS / Expo.dev, ~~Node/Express~~<sup>Django?</sup>, Postgres, Nginx.
 
 All self-hosted! _Oh yeah, I spent last two years in Computer Networks to accumulate practical knowledge
 from DNS, TCP/IP, cloudflare, Nginx Proxy Manager, wireguard, docker, docker-compose, grafana, and to ubuntu server, cockpit and proxmox._
