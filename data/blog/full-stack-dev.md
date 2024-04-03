@@ -43,7 +43,7 @@ Also, statistically speaking JS/Python communities are top communities to learn 
 The pros of going through this process?
 
 - I might be able to write services on the web.
-- I might be able to fiddle with 3rd party [Python AI/ML libraries](https://github.com/ageitgey/face_recognition) which will make ML highly accessible to me.
+- I might be able to fiddle with 3rd party [Python AI/ML libraries](https://swe-agent.com/demo) which will make ML highly accessible to me.
 
 **On the similar lines (Weekend Edition), What about the state of front end?**
 - I am still trying to figure out an easy way to solve the frontend overload in the world of NextJS, Svelte, VueJS, and SolidJS.
