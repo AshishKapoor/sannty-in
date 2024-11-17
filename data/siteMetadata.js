@@ -17,7 +17,6 @@ const siteMetadata = {
   linkedin: 'https://www.linkedin.com/in/ashshkapoor',
   locale: 'en-US',
   newsletter: {
-    // supports buttondown
     provider: 'buttondown',
   },
 }
