@@ -80,6 +80,6 @@ This lets you:
 If you’re climbing the ladder and trying to stay grounded while navigating messy org charts and random reorgs, remember: **you’re not crazy, and you’re not alone.**
 
 Ideally, Here's what I found useful resource worth watching from Apple. How they have Direct Responsibility Individuals (DRI) model avoid the chaos leading UP.
-![Link](https://youtu.be/xCqKmhCBtJk?si=bVPkKGzJ60y9a2GL)
+[Link](https://youtu.be/xCqKmhCBtJk?si=bVPkKGzJ60y9a2GL)
 
 Stay focused. Stay real. Keep shipping.
