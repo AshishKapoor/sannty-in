@@ -8,7 +8,6 @@ import { ThemeProvider } from 'next-themes'
 import Head from 'next/head'
 
 import siteMetadata from '@/data/siteMetadata'
-import { Analytics } from '@vercel/analytics/react'
 import LayoutWrapper from '@/components/LayoutWrapper'
 import { ClientReload } from '@/components/ClientReload'
 
@@ -24,7 +23,6 @@ export default function App({ Component, pageProps }) {
       {isDevelopment && isSocket && <ClientReload />}
       <LayoutWrapper>
         <Component {...pageProps} />
-        <Analytics />
       </LayoutWrapper>
     </ThemeProvider>
   )
