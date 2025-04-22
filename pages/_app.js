@@ -19,6 +19,11 @@ export default function App({ Component, pageProps }) {
     <ThemeProvider attribute="class" defaultTheme={siteMetadata.theme}>
       <Head>
         <meta content="width=device-width, initial-scale=1" name="viewport" />
+        <script
+          defer
+          src="https://cloud.umami.is/script.js"
+          data-website-id="5acef769-79ea-4ee1-b812-15a2e9fc5dff"
+        />
       </Head>
       {isDevelopment && isSocket && <ClientReload />}
       <LayoutWrapper>

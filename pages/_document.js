@@ -23,21 +23,6 @@ class MyDocument extends Document {
           <meta name="theme-color" media="(prefers-color-scheme: light)" content="#fff" />
           <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#000" />
           <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
-          <script
-            dangerouslySetInnerHTML={{
-              __html: `
-              // Umami tracking code
-              (function(w, d) {
-                var t, c = d.createElement('script');
-                t = w.umami || (w.umami = []);
-                c.async = true;
-                c.src = "https://cloud.umami.is/script.js";
-                d.head.appendChild(c);
-                w.umami.push(['init', '5acef769-79ea-4ee1-b812-15a2e9fc5dff']);
-              })(window, document);
-            `,
-            }}
-          />
         </Head>
         <body className="bg-white text-black antialiased dark:bg-gray-900 dark:text-white">
           <Main />
