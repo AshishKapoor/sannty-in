@@ -4,6 +4,7 @@ const headerNavLinks = [
   { href: '/projects', title: 'Projects' },
   { href: 'https://tools.sannty.in/', title: 'Kanban' },
   { href: 'https://fintrack.sannty.in/', title: 'FinTrack' },
+  { href: 'https://uptime-kuma-e48q.onrender.com/status/health', title: 'Uptime' },
   { href: '/about', title: 'About' },
 ]
 
