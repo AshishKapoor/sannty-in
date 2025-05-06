@@ -49,3 +49,7 @@ The pros of going through this process?
 - I am still trying to figure out an easy way to solve the frontend overload in the world of NextJS, Svelte, VueJS, and SolidJS.
 - The idea of not being bothered about the performance too much rather delivering frontend quick is possibily the key.
 - I think since Vercel currently holds on to the top talents in the domain. They should be the ones solving this problem in the OSS way.
+
+Here's what I built over weekend. An expense tracker.
+https://fintrack.sannty.in
+Go check it out!
