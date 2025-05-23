@@ -3,7 +3,7 @@ const headerNavLinks = [
   { href: '/tags', title: 'Tags' },
   { href: '/projects', title: 'Projects' },
   { href: 'https://tools.sannty.in/', title: 'Kanban' },
-  { href: 'https://fintrack.sannty.in/', title: 'FinTrack' },
+  { href: 'https://app.sannty.in/', title: 'FinTrack' },
   { href: '/about', title: 'About' },
 ]
 
