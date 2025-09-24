@@ -130,7 +130,7 @@ export default function Home() {
                 </p>
                 <Button
                   asChild
-                  className="w-full sm:w-auto bg-blue-600 hover:bg-blue-700 text-white"
+                  className="w-full sm:w-auto bg-indigo-600 hover:bg-indigo-700 text-white"
                 >
                   <a
                     href="https://blog.sannty.in"
@@ -138,7 +138,7 @@ export default function Home() {
                     rel="noopener noreferrer"
                     className="flex items-center gap-2"
                   >
-                    Visit My Blog
+                    Sannty
                     <ExternalLink className="w-4 h-4" />
                   </a>
                 </Button>
