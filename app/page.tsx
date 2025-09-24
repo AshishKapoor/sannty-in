@@ -25,7 +25,9 @@ export default function Home() {
                   Ashish Kapoor
                 </h2>
                 <p className="text-xl text-muted-foreground mb-6">
-                  Software Consultant
+                  Software Consultant an Indian
+                  <br />
+                  Problem Solver & Vibe Code Cleaning Expert
                 </p>
                 <a
                   href="https://netix.ai/"
