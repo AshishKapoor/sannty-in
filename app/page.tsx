@@ -138,7 +138,7 @@ export default function Home() {
                     rel="noopener noreferrer"
                     className="flex items-center gap-2"
                   >
-                    Sannty
+                    Visit My Blog
                     <ExternalLink className="w-4 h-4" />
                   </a>
                 </Button>
