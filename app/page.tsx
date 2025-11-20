@@ -119,30 +119,31 @@ export default function Home() {
                 </p>
               </div>
 
-              {/* Blog Link Section */}
-              <div className="mt-12 p-6 bg-card rounded-lg border border-border">
-                <h4 className="text-lg font-semibold mb-3 text-foreground">
-                  Latest Thoughts
-                </h4>
-                <p className="text-muted-foreground mb-4">
-                  I regularly share insights about technology, software
-                  development, and industry trends on my blog.
-                </p>
-                <Button
-                  asChild
-                  className="w-full sm:w-auto bg-indigo-600 hover:bg-indigo-700 text-white"
-                >
-                  <a
-                    href="https://blog.sannty.in"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="flex items-center gap-2"
+              {/* Blog Link Section
+                <div className="mt-12 p-6 bg-card rounded-lg border border-border">
+                  <h4 className="text-lg font-semibold mb-3 text-foreground">
+                    Latest Thoughts
+                  </h4>
+                  <p className="text-muted-foreground mb-4">
+                    I regularly share insights about technology, software
+                    development, and industry trends on my blog.
+                  </p>
+                  <Button
+                    asChild
+                    className="w-full sm:w-auto bg-indigo-600 hover:bg-indigo-700 text-white"
                   >
-                    Visit My Blog
-                    <ExternalLink className="w-4 h-4" />
-                  </a>
-                </Button>
-              </div>
+                    <a
+                      href="https://blog.sannty.in"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex items-center gap-2"
+                    >
+                      Visit My Blog
+                      <ExternalLink className="w-4 h-4" />
+                    </a>
+                  </Button>
+                </div>
+              */}
             </div>
           </div>
         </div>
