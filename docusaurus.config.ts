@@ -75,6 +75,8 @@ const config: Config = {
       },
       items: [
         { to: "/blog", label: "Blog", position: "left" },
+        { to: "https://tools.sannty.in/", label: "Kanban", position: "left" },
+        { to: "https://emails.sannty.in/", label: "Email", position: "left" },
         {
           href: "https://ashishkapoor.github.io/",
           label: "Resume",
