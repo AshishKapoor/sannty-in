@@ -76,7 +76,12 @@ const config: Config = {
       items: [
         { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/ashishkapoor/sannty-in",
+          href: "https://ashishkapoor.github.io/",
+          label: "Resume",
+          position: "right",
+        },
+        {
+          href: "https://github.com/ashishkapoor/",
           label: "GitHub",
           position: "right",
         },
