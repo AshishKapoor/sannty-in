@@ -1,0 +1,33 @@
+.navbarWrapper {
+  position: relative;
+}
+
+.navbarWrapper :global(.navbar) {
+  position: relative;
+  padding-right: clamp(220px, 26vw, 360px);
+}
+
+.searchBarContainer {
+  position: absolute;
+  top: 0;
+  right: 1.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+@media (max-width: 1280px) {
+  .navbarWrapper :global(.navbar) {
+    padding-right: clamp(180px, 32vw, 280px);
+  }
+}
+
+@media (max-width: 996px) {
+  .navbarWrapper :global(.navbar) {
+    padding-right: 1rem;
+  }
+
+  .searchBarContainer {
+    display: none;
+  }
+}
