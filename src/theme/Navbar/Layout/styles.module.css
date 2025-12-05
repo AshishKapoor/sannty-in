@@ -4,7 +4,7 @@
 
 .navbarWrapper :global(.navbar) {
   position: relative;
-  padding-right: clamp(220px, 26vw, 360px);
+  /* padding-right: clamp(220px, 26vw, 360px); */
 }
 
 .searchBarContainer {
