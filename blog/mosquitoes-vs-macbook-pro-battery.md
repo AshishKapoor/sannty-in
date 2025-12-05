@@ -4,7 +4,7 @@ summary: It’s a story about how I practically understood computer networks and
 date: "2020-05-29"
 tags: ["computer networks"]
 
-author: ashish
+authors: [ashish]
 ---
 
 ![](https://cdn-images-1.medium.com/max/800/0*bXHeAVAnMZP8_wcY)
