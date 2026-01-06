@@ -2,7 +2,7 @@
 title: Two lines each
 authors: [ashish]
 summary: Happy New Year
-date: "2026-02-01"
+date: "2026-01-02"
 tags: ["random"]
 ---
 
