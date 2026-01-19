@@ -28,3 +28,34 @@
   --ifm-color-primary-lightest: #4f46e5;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Mobile-friendly global improvements */
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Improve touch targets on mobile */
+@media screen and (max-width: 996px) {
+  a,
+  button {
+    min-height: 44px;
+    min-width: 44px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* Prevent text from being too small on mobile */
+  p,
+  li,
+  span {
+    font-size: max(16px, 1rem);
+  }
+}

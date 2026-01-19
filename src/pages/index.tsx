@@ -1,30 +1,24 @@
-import type { ReactNode } from 'react';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import Layout from '@theme/Layout';
-import { ExternalLink, Github, Linkedin, Mail } from 'lucide-react';
+import type { ReactNode } from "react";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import Layout from "@theme/Layout";
+import { ExternalLink, Github, Linkedin, Mail } from "lucide-react";
+import styles from "./index.module.css";
 
 function HomePage(): ReactNode {
   return (
-    <div style={{ minHeight: '50vh' }} className="bg-background">
+    <div className={styles.container}>
       {/* Main Content */}
-      <main style={{ maxWidth: '1280px', margin: '0 auto', padding: '4rem 1.5rem 2rem' }}>
-        <div style={{ display: 'grid', gridTemplateColumns: 'auto 1fr', gap: '4rem', alignItems: 'start' }}>
+      <main className={styles.mainContent}>
+        <div className={styles.gridLayout}>
           {/* Left Column - Profile */}
-          <div style={{ minWidth: '300px', position: 'sticky', top: '4rem' }}>
-            <div style={{ position: 'relative', width: '256px', height: '256px', margin: '0 auto 2rem' }}>
-              <img
-                src="/img/dp.jpeg"
-                alt="Ashish Kapoor"
-                style={{ borderRadius: '50%', objectFit: 'cover', width: '100%', height: '100%' }}
-              />
+          <div className={styles.profileColumn}>
+            <div className={styles.profileImage}>
+              <img src="/img/dp.jpeg" alt="Ashish Kapoor" />
             </div>
 
-
-            <div style={{ textAlign: 'left' }}>
-              <h2 style={{ fontSize: '1.875rem', fontWeight: 'bold', marginBottom: '0.5rem' }}>
-                Ashish Kapoor
-              </h2>
-              <p style={{ fontSize: '1.25rem', color: '#4B5563', marginBottom: '1.5rem', lineHeight: '1.6' }}>
+            <div className={styles.profileInfo}>
+              <h2 className={styles.profileName}>Ashish Kapoor</h2>
+              <p className={styles.profileTitle}>
                 Software Consultant <br />
                 an Indian Problem Solver & Vibe Code Cleaning Expert
               </p>
@@ -32,15 +26,13 @@ function HomePage(): ReactNode {
                 href="https://netix.ai/"
                 target="_blank"
                 rel="noopener noreferrer"
-                style={{ color: '#4B5563', marginBottom: '2rem', display: 'block', textDecoration: 'none' }}
-                onMouseEnter={(e) => e.currentTarget.style.textDecoration = 'underline'}
-                onMouseLeave={(e) => e.currentTarget.style.textDecoration = 'none'}
+                className={styles.companyLink}
               >
                 NETIX AI
               </a>
               {/* Social Links */}
-              <div style={{ display: 'flex', gap: '1rem', justifyContent: 'flex-start' }}>
-                <a href="mailto:swiftobjc@gmail.com" aria-label="Email" style={{ display: 'inline-flex', color: '#4B5563' }}>
+              <div className={styles.socialLinks}>
+                <a href="mailto:swiftobjc@gmail.com" aria-label="Email">
                   <Mail className="w-5 h-5" />
                 </a>
                 <a
@@ -48,7 +40,6 @@ function HomePage(): ReactNode {
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="GitHub"
-                  style={{ display: 'inline-flex', color: '#4B5563' }}
                 >
                   <Github className="w-5 h-5" />
                 </a>
@@ -57,25 +48,20 @@ function HomePage(): ReactNode {
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="LinkedIn"
-                  style={{ display: 'inline-flex', color: '#4B5563' }}
                 >
                   <Linkedin className="w-5 h-5" />
                 </a>
               </div>
             </div>
-
           </div>
 
           {/* Right Column - About Content */}
 
-          <div>
+          <div className={styles.contentColumn}>
             <div>
-              <h2 style={{ fontSize: '2.25rem', fontWeight: '800', marginBottom: '2rem' }}>
-                About
-              </h2>
+              <h2 className={styles.aboutTitle}>About</h2>
 
-
-              <div style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem', color: '#4B5563', lineHeight: '1.75' }}>
+              <div className={styles.aboutContent}>
                 <p>
                   I am a tech enthusiast with a focus on developing and
                   maintaining software. I am committed to delivering reliable
@@ -84,23 +70,15 @@ function HomePage(): ReactNode {
                   knowledge and passion for technology.
                 </p>
 
-
                 <p>
                   I specialize in{" "}
-                  <span style={{ color: '#3B82F6', fontWeight: '500' }}>TypeScript</span>,{" "}
-                  <span style={{ color: '#3B82F6', fontWeight: '500' }}>REST</span>,{" "}
-                  <span style={{ color: '#3B82F6', fontWeight: '500' }}>
-                    Web Performance
-                  </span>
-                  , and{" "}
-                  <span style={{ color: '#3B82F6', fontWeight: '500' }}>
-                    Mobile Applications
-                  </span>
-                  , and I love making complex computer science concepts
-                  accessible to anyone interested in technology through my
-                  YouTube videos.
+                  <span className={styles.highlight}>TypeScript</span>,{" "}
+                  <span className={styles.highlight}>REST</span>,{" "}
+                  <span className={styles.highlight}>Web Performance</span>, and{" "}
+                  <span className={styles.highlight}>Mobile Applications</span>,
+                  and I love making complex computer science concepts accessible
+                  to anyone interested in technology through my YouTube videos.
                 </p>
-
 
                 <p>
                   I have been a full-time software engineer since 2014, and I
@@ -112,22 +90,18 @@ function HomePage(): ReactNode {
                   out of my coding comfort zone.
                 </p>
 
-
                 <p>
                   During my free time, I challenge myself to be more creative
                   and improve my technical skills by writing in-depth product
                   requirement documents to enhance existing
                   technologies/products.
                 </p>
-
               </div>
 
               {/* Latest Thoughts Section */}
-              <div style={{ marginTop: '3rem', padding: '1.5rem', borderRadius: '0.5rem', border: '1px solid #E5E7EB' }}>
-                <h4 style={{ fontSize: '1.125rem', fontWeight: '600', marginBottom: '0.75rem' }}>
-                  Latest Thoughts
-                </h4>
-                <p style={{ color: '#4B5563', marginBottom: '1rem' }}>
+              <div className={styles.latestThoughts}>
+                <h4 className={styles.latestThoughtsTitle}>Latest Thoughts</h4>
+                <p className={styles.latestThoughtsText}>
                   I regularly share insights about technology, software
                   development, and industry trends on my blog.
                 </p>
@@ -135,7 +109,7 @@ function HomePage(): ReactNode {
                   href="/blog"
                   target="_blank"
                   rel="noopener noreferrer"
-                  style={{ display: 'inline-flex', gap: '0.5rem', alignItems: 'center', backgroundColor: '#4F46E5', color: 'white', padding: '0.5rem 1rem', borderRadius: '0.375rem', textDecoration: 'none' }}
+                  className={styles.blogButton}
                 >
                   Visit My Blog
                   <ExternalLink className="w-4 h-4" />
@@ -152,9 +126,7 @@ function HomePage(): ReactNode {
 export default function Home(): ReactNode {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout
-      title={`${siteConfig.title}`}
-      description="In my head">
+    <Layout title={`${siteConfig.title}`} description="In my head">
       <main>
         <HomePage />
       </main>
